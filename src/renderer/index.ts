@@ -1,6 +1,6 @@
 // Initial welcome page. Delete the following line to remove it.
 import Vue from 'vue'
-import App from './App'
+import App from './App.vue'
 
 'use strict'
 
