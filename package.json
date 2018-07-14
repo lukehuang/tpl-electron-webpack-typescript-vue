@@ -1,7 +1,12 @@
 {
   "name": "tpl-electron-webpack-typescript-vue",
-  "description": "This project is a working template for Electron, Webpack, Typescript and VueJS",
-  "version": "0.0.1",
+  "description": "This project is a working template that integrates Electron, Webpack, Typescript and VueJS",
+  "author": {
+    "name": "Pedro Luz",
+    "email": "pedromsluz@gmail.com",
+    "url": "https://pedromsluz.co.uk"
+  },
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "electron",
