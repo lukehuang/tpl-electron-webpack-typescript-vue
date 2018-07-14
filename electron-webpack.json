@@ -1,0 +1,6 @@
+{
+  "title": false,
+  "renderer": {
+    "webpackConfig": "./.config/custom.webpack.additions.js"
+  }
+}
